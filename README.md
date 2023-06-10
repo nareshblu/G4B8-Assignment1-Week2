@@ -9,7 +9,6 @@ Chandan Jyoti Sarma | chandanjs2509@gmail.com
 Naresh Kumar | gnareshblaze@gmail.com
 
 ## Algorithm
-Markup : 
 1. Create a project Week2Assignment1.
 2. Create a package com.greatlearning.assignment1.
 3. Create classes as superDepartment, adminDepartment, hrDepartment and techDepartment.
