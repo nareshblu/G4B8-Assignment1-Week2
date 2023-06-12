@@ -4,9 +4,10 @@
 Members | Email
 ------------- | -------------
 Shivani Bhatt  | shivanibhatt251@gmail.com
-Sudeer Kumar Unnikrishnan  |  gmail.com
+Sudeer Kumar Unnikrishnan  | kumar_sudeer@yahoo.com
 Chandan Jyoti Sarma | chandanjs2509@gmail.com
 Naresh Kumar | gnareshblaze@gmail.com
+Veena CK | Vck02021988@gmail.com
 
 ## Algorithm
 1. Create a project Week2Assignment1.
