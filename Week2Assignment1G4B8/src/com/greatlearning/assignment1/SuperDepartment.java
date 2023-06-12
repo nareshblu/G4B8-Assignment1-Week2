@@ -5,7 +5,7 @@ package com.greatlearning.assignment1;
  * @author nka
  *
  */
-public class superDepartment {
+public class SuperDepartment {
 	
 	/**
 	 * Method departmentName
