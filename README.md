@@ -36,3 +36,22 @@ Veena CK | Vck02021988@gmail.com
 9. Create objects of hrDepartment, techDepartment, adminDepartment classes in main method.
 10. Call all methods in each class with their respective objects.
 11. Call  isTodayAHoliday methods the objects of all the classes.
+
+## Executed Output
+Welcome to Admin Department<br />
+Complete your documents submission<br />
+Complete by EOD<br />
+Today is not a Holiday<br />
+
+Welcome to HR Department<br />
+team Lunch<br />
+Fill Today's Timesheet and mark your attendance<br />
+Complete by EOD<br />
+Today is not a Holiday<br />
+
+Welcome to Tech Department<br />
+Complete coding of Module 1<br />
+Complete by EOD<br />
+Core Java<br />
+Today is not a Holiday<br />
+
