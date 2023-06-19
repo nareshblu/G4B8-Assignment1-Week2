@@ -36,6 +36,6 @@ public class SuperDepartment {
 	 * @return String
 	 */
 	public String isTodayAHoliday() {
-		return ("Today is not a holiday");
+		return ("Today is not a Holiday");
 	}
 }

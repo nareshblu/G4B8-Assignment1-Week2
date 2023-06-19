@@ -1,4 +1,4 @@
-package com.greatlearning.services;
+package com.greatlearning.assignment1;
 
 public class TechDepartment extends SuperDepartment {
 
@@ -7,7 +7,7 @@ public class TechDepartment extends SuperDepartment {
 	}
 
 	public String getTodaysWork() {
-		return ("Complete coding of module 1");
+		return ("Complete coding of Module 1");
 	}
 
 	public String getWorkDeadline() {
@@ -15,6 +15,6 @@ public class TechDepartment extends SuperDepartment {
 	}
 
 	public String getTechStackInformation() {
-		return ("core Java");
+		return ("Core Java");
 	}
 }
