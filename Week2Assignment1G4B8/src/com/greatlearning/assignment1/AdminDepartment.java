@@ -1,24 +1,41 @@
 //#by Chandan_Jyoti_Sarma_Admin_Module
 
-
 package com.greatlearning.assignment1;
 //import java.util.Date;
+
 //import java.text.Format;
 //import java.text.SimpleDateFormat;
 //import java.util.Calendar;
 
-public class AdminDepartment extends SuperDepartment{
+public class AdminDepartment extends SuperDepartment {
 
+	/**
+	 * Method departmentName
+	 * 
+	 * @return String
+	 */
 	public String departmentName() {
-		String deptName="Admin Department";
+		String deptName = "Admin Department";
 		return deptName;
 	}
+
+	/**
+	 * Method getTodaysWork
+	 * 
+	 * @return String
+	 */
 	public String getTodaysWork() {
-		String todayWork="Complete your documents submission";
+		String todayWork = "Complete your documents submission";
 		return todayWork;
 	}
+
+	/**
+	 * Method getWorkDeadline
+	 * 
+	 * @return String
+	 */
 	public String getWorkDeadline() {
-		String workDeadline="Complete by EOD";
+		String workDeadline = "Complete by EOD";
 		return workDeadline;
 	}
 //	public String getHoliday() {

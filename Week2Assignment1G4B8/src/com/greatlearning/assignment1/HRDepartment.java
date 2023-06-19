@@ -1,22 +1,41 @@
 package com.greatlearning.assignment1;
 
-
 public class HRDepartment extends SuperDepartment {
 	private String departmentName = "HR Department";
 
+	/**
+	 * Method departmentName
+	 * 
+	 * @return String
+	 */
 	public String departmentName() {
 		return departmentName;
 	}
-	
-	public String getTodaysWork()
-	{
+
+	/**
+	 * Method getTodaysWork
+	 * 
+	 * @return String
+	 */
+	public String getTodaysWork() {
 		return "Fill Today's Timesheet and mark your attendance";
 	}
-	public String getWorkDeadline(){
+
+	/**
+	 * Method getWorkDeadline
+	 * 
+	 * @return String
+	 */
+	public String getWorkDeadline() {
 		return "Complete by EOD";
 	}
-	
-	public String doActivity(){
+
+	/**
+	 * Method doActivity
+	 * 
+	 * @return
+	 */
+	public String doActivity() {
 		return "team Lunch";
 	}
 }
